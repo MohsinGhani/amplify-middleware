@@ -1,0 +1,71 @@
+{
+  "videoCategories": [
+    { "value": "sports", "label": "Sports" },
+    { "value": "music", "label": "Music" },
+    { "value": "gaming", "label": "Gaming" },
+    { "value": "news", "label": "News" },
+    { "value": "movies", "label": "Movies" },
+    { "value": "fashion", "label": "Fashion" },
+    { "value": "food", "label": "Food" },
+    { "value": "travel", "label": "Travel" },
+    { "value": "tech", "label": "Tech" },
+    { "value": "lifestyle", "label": "Lifestyle" },
+    { "value": "beauty", "label": "Beauty" },
+    { "value": "entertainment", "label": "Entertainment" },
+    { "value": "education", "label": "Education" },
+    { "value": "fitness", "label": "Fitness" },
+    { "value": "comedy", "label": "Comedy" },
+    { "value": "kids", "label": "Kids" },
+    { "value": "health", "label": "Health" },
+    { "value": "business", "label": "Business" },
+    { "value": "politics", "label": "Politics" },
+    { "value": "science", "label": "Science" },
+    { "value": "religion", "label": "Religion" },
+    { "value": "culture", "label": "Culture" },
+    { "value": "history", "label": "History" },
+    { "value": "documentary", "label": "Documentary" },
+    { "value": "other", "label": "Other" }
+  ],
+  "playlists": [
+    {
+      "category": "Sports",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "sports"
+    },
+    {
+      "category": "Music",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "music"
+    },
+    {
+      "category": "Gaming",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "gaming"
+    },
+    {
+      "category": "News",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "news"
+    },
+    {
+      "category": "Movies",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "movies"
+    },
+    {
+      "category": "Fashion",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "fashion"
+    },
+    {
+      "category": "Food",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "food"
+    },
+    {
+      "category": "Travel",
+      "playlistId": "PL8fVUTBmJhHJZ1Xq7Jg4X1jQgXZ3Q0X0q",
+      "value": "travel"
+    }
+  ]
+}
